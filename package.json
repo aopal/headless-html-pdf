@@ -1,0 +1,23 @@
+{
+  "name": "html2pdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "html2pdf.js",
+  "dependencies": {
+    "yargs": "^10.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aopal/html2pdf.git"
+  },
+  "author": "Anuj Opal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aopal/html2pdf/issues"
+  },
+  "homepage": "https://github.com/aopal/html2pdf#readme"
+}
