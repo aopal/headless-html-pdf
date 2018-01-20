@@ -1,8 +1,8 @@
 {
-  "name": "html2pdf",
-  "version": "0.0.1",
+  "name": "htmlpdf",
+  "version": "1.0.0",
   "description": "",
-  "main": "html2pdf.js",
+  "main": "htmlpdf.js",
   "dependencies": {
     "yargs": "^10.1.1"
   },
