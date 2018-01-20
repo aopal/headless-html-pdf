@@ -1,11 +1,11 @@
-# htmlpdf
+# headless-html-pdf
 
 Converts html files to pdf using Chrome headless mode.
 
 Generated pdfs will be almost identical to manually printing to pdf from Chrome. htmlpdf should autodetect your Chrome installation, see below if it does not.
 
 # Installation
-`npm install htmlpdf`
+`npm install headless-html-pdf`
 
 # Dependencies
 - Google Chrome

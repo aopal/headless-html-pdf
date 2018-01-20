@@ -1,6 +1,6 @@
 {
-  "name": "htmlpdf",
-  "version": "1.0.0",
+  "name": "headless-html-pdf",
+  "version": "1.0.1",
   "description": "",
   "main": "htmlpdf.js",
   "dependencies": {
